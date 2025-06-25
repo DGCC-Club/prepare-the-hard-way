@@ -26,4 +26,7 @@ prepare-the-hard-way/
 │   ├── question-set-01.pdf
 │   └── ...
 ├── README.md
+```
 
+## Hit Rate using this preparation strategy
+**NAB Innovation Centre India (SQL)** - 20 out of 25 students cleared the SQL test
